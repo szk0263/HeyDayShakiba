@@ -28,7 +28,5 @@ Feel free to share this script with your friends and brighten their day with a f
 
 ## Repository
 
-Find the Hey Day Script on GitHub: [HeyDayShakiba](https://github.com/szk0263/HeyDayScript)
-
-
+Find the Hey Day Script on GitHub: [HeyDayShakiba](https://github.com/szk0263/HeyDayShakiba)
 ---
